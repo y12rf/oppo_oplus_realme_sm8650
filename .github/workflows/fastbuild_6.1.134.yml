@@ -2,7 +2,7 @@ name: 6.1.134 (天玑特供)欧加真OKI内核快速构建
 
 env:
   TZ: Asia/Shanghai
-  SOURCE_DATE_EPOCH: 1764806400
+  SOURCE_DATE_EPOCH: 1748145600
   ANDROID_VERSION: 'android14'
   KERNEL_VERSION: '6.1'
   SUB_VERSION: '134'
